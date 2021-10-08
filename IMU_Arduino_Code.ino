@@ -2,9 +2,9 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "AH CHEH-2.4GHz@unifi";
-const char* password = "0126901246";
-const char* mqtt_server = "192.168.0.144";
+const char* ssid = "************"; // your wifi name
+const char* password = "************"; // your wifi password
+const char* mqtt_server = "************"; // your device's IP address
 
 WiFiClient espClient;
 PubSubClient client(espClient);
