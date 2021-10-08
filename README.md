@@ -1,6 +1,8 @@
 Indoor Tracking System based on Inertial Measurement Unit
 
-This is the initial development of the project, so it is not perfect yet.
+This is the initial development of the project that I did during my 10 weeks of industrial traing.
+
+The system is not perfect yet. but I will make it perfect one day....
 
 IMU_Arduino_Code.ino is the Arduino code for the hardware.
 
